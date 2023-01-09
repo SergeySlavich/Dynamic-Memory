@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dynamic Memory", "Dynamic Memory\Dynamic Memory.vcxproj", "{AB0B6CD5-892A-4B09-A4AA-8C70AE80F157}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dynamic_Memory_Orig", "Dynamic_Memory_Orig\Dynamic_Memory_Orig.vcxproj", "{597D8299-32A5-4EA5-8FB9-8855715237EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{AB0B6CD5-892A-4B09-A4AA-8C70AE80F157}.Release|x64.Build.0 = Release|x64
 		{AB0B6CD5-892A-4B09-A4AA-8C70AE80F157}.Release|x86.ActiveCfg = Release|Win32
 		{AB0B6CD5-892A-4B09-A4AA-8C70AE80F157}.Release|x86.Build.0 = Release|Win32
+		{597D8299-32A5-4EA5-8FB9-8855715237EB}.Debug|x64.ActiveCfg = Debug|x64
+		{597D8299-32A5-4EA5-8FB9-8855715237EB}.Debug|x64.Build.0 = Debug|x64
+		{597D8299-32A5-4EA5-8FB9-8855715237EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{597D8299-32A5-4EA5-8FB9-8855715237EB}.Debug|x86.Build.0 = Debug|Win32
+		{597D8299-32A5-4EA5-8FB9-8855715237EB}.Release|x64.ActiveCfg = Release|x64
+		{597D8299-32A5-4EA5-8FB9-8855715237EB}.Release|x64.Build.0 = Release|x64
+		{597D8299-32A5-4EA5-8FB9-8855715237EB}.Release|x86.ActiveCfg = Release|Win32
+		{597D8299-32A5-4EA5-8FB9-8855715237EB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
